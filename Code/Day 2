@@ -1,0 +1,2 @@
+print("prateek's laptop")
+print('prateek\'s "laptop"')
