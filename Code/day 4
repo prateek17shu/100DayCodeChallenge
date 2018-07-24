@@ -1,0 +1,10 @@
+//how we implement the variable
+x=5
+y=4
+x+y
+_+y
+name='variable'
+name+'define'
+name[0]
+name[6]
+name[-1]
