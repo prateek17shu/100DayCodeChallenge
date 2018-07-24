@@ -1,0 +1,5 @@
+// work on array 
+nums=[45,67,89,43]
+names=['prateek','kiran','john']
+names[2]
+name[-1]
